@@ -1,0 +1,27 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    transition: all .2s linear;
+  }
+  .h1{
+    text-align: 100px;
+    color: #27ae60;
+  }
+  
+  .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:25px;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #2e72cc 0%, #27ae60 0%);
+    background-image: url(otpimage.jpg);
+  }
+  .h1{
+    text-align: 100px;
+    color: #27ae60;
+  }
